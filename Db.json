@@ -1,0 +1,125 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Hotel Residence: LoTus",
+      "Location":"Hyderabad",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/196886/large/fdf11f5875f59f3f.jpg",
+      "price": 1200
+    
+    },
+    {
+      "id": 2,
+      "name": "Hotel Bhrundha: LoTus",
+      "Location":"Hyderabad,Bangalore",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/110830/large/5a808252142cfc23.jpg",
+      "price": 2000
+    },
+    {
+      "id": 3,
+      "name": "Hotel Raj: LoTus",
+      "Location":"Hyderabad",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/105993/medium/qbxvttwtbodp.jpg",
+      "price": 1500
+    },
+    {
+      "id": 4,
+      "name": "Hotel Lakshyu: LoTus",
+      "Location":"Bangalore",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/227536/medium/pwbdbgxqpodd.jpg",
+      "price": 1800
+    },
+    {
+      "id": 5,
+      "name": "Hotel Raj-Ninjas: LoTus",
+      "Location":"Chennai",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/227536/medium/rfswtivnxorx.jpg",
+      "price": 1500
+    },
+    {
+      "id": 6,
+      "name": "Hotel Raj-Mahan: LoTus",
+      "Location":"Bangalore",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/227536/medium/ymrcdrrmgyqv.jpg",
+      "price": 2000
+    },
+    {
+      "id": 7,
+      "name": "Hotel Bharat: LoTus",
+      "Location":"Chennai",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/88914/medium/4052182a77eae71f.jpg",
+      "price": 1500
+    },
+    {
+      "id": 8,
+      "name": "Hotel Grand-New: LoTus",
+      "Location":"Hyderabad , Chennai,Bangalore",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/230018/medium/rcxxsnduapoy.jpg",
+      "price": 5000
+    },
+    {
+      "id": 9,
+      "name": "Hotel Thunder: LoTus",
+      "Location":"Hyderabad",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/16874/medium/233c8a6c93f0788e.jpg",
+      "price": 1800
+    },
+    {
+      "id": 10,
+      "name": "Hotel Mersi: LoTus",
+      "Location":"Bangalore",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/3700/large/osnyvvrruwcu.jpg",
+      "price": 5000
+    },
+    {
+      "id": 11,
+      "name": "Hotel Finco: LoTus",
+      "Location":"Bangalore",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/190017/large/89eb827e50aa6b1b.jpg",
+      "price": 5000
+    },
+    {
+      "id": 12,
+      "name": "Heaven's New: LoTus",
+      "Location":"Hyderabad , Chennai,Bangalore",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/104215/medium/ee7939638caa86d1.jpg",
+      "price": 8000
+    },
+    {
+      "id": 13,
+      "name": "Hotel Wanak: LoTus",
+      "Location":"Chennai",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/201925/large/dhwyipqancdq.jpg",
+      "price": 5000
+    },
+    {
+      "id": 14,
+      "name": "Hotel Metric: LoTus",
+      "Location":"Chennai",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/218716/large/pjhgswotobyx.jpg",
+      "price": 10000
+    },
+    {
+      "id": 15,
+      "name": "Hotel Atras: LoTus",
+      "Location":"Chennai",
+      "description": "Comfort & Flexible",
+      "image": " https://images.oyoroomscdn.com/uploads/hotel_image/88914/large/5ada17b66cb040b3.jpg",
+      "price": 5000
+    }
+  ]
+}
